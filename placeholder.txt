@@ -1,1 +1,2 @@
 foo is a common placeholder name used in computer science
+this change is for placeholder.txt
